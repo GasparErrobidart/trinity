@@ -6,24 +6,53 @@ This project includes a boilerplate, just download the code as is into your serv
 
 *Trinity is a PHP web framework created by [Gaspar G. Errobidart](https://github.com/GasparErrobidart)*
 
-## API (TO DO)
+# API (TO DO)
 
-### Router
+## Router
 
-### BaseController
+### add
+### use
+### get
+### post
+### all
+### response
 
-### HTTPMethod
 
-### GET
+## BaseController
 
-### POST
+### redirect
+### throw
+### render
 
-### Request
+## GET
 
-### Response
+### map
+### unset
+### GET::getInstance *static method*
 
-### RedirectResponse
+## POST
 
-### ErrorResponse
+### map
+### unset
+### POST::getInstance *static method*
 
-### Session
+## Request
+
+### httpMethod
+### path
+### Request::getInstance *static method*
+
+## Response
+
+### setCode
+### setHeader
+### send
+
+## RedirectResponse
+
+## ErrorResponse
+
+## Session
+
+### unset
+### Session::getInstance *static method*
