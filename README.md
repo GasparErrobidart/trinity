@@ -6,7 +6,7 @@ This project includes a boilerplate, just download the code as is into your serv
 
 *Trinity is a PHP web framework created by [Gaspar G. Errobidart](https://github.com/GasparErrobidart)*
 
-# API (TO DO)
+# API (documentation is a work in progress)
 
 ## Router
 
