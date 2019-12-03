@@ -10,43 +10,46 @@ This project includes a boilerplate, just download the code as is into your serv
 
 ## Router
 
-### add
-### use
-### get
-### post
-### all
-### response
+### add()
+### use()
+### get()
+### post()
+### all()
+### response()
 
 
 ## BaseController
 
-### redirect
-### throw
-### render
+### redirect()
+### throw()
+### render()
 
 ## GET
 
-### map
-### unset
-### GET::getInstance *static method*
+### map()
+### unset()
+### GET::getInstance()
+*static method*
 
 ## POST
 
-### map
-### unset
-### POST::getInstance *static method*
+### map()
+### unset()
+### POST::getInstance()
+*static method*
 
 ## Request
 
-### httpMethod
-### path
-### Request::getInstance *static method*
+### httpMethod()
+### path()
+### Request::getInstance()
+*static method*
 
 ## Response
 
-### setCode
-### setHeader
-### send
+### setCode()
+### setHeader()
+### send()
 
 ## RedirectResponse
 
@@ -54,5 +57,6 @@ This project includes a boilerplate, just download the code as is into your serv
 
 ## Session
 
-### unset
-### Session::getInstance *static method*
+### unset()
+### Session::getInstance()
+*static method*
