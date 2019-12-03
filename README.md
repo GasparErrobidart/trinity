@@ -14,7 +14,7 @@ This project includes a boilerplate, just download the code as is into your serv
 
 ### GET
 
-###POST
+### POST
 
 ### Request
 
